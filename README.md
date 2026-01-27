@@ -1,4 +1,6 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+NAME:         PERARASU K
+REGISTER NO : 25004665
 
 ## AIM
 
@@ -42,6 +44,10 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+[EDM EX 1.1 DRAWING.pdf](https://github.com/user-attachments/files/23767320/EDM.EX.1.1.DRAWING.pdf)
+
+<img width="934" height="685" alt="image" src="https://github.com/user-attachments/assets/560cb92c-171a-4628-a3fd-744407a85390" />
+
 
 
 ## RESULT
