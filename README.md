@@ -50,7 +50,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 [EX 1.1 EDM 25004665.pdf](https://github.com/user-attachments/files/24898593/EX.1.1.EDM.25004665.pdf)
 
 
-<img width="1020" height="727" alt="image" src="https://github.com/user-attachments/assets/4412602a-393e-4cef-9a79-12f9b612e651" />
+<img width="1021" height="720" alt="Screenshot 2026-02-11 075405" src="https://github.com/user-attachments/assets/095a8258-fcc8-4fd5-af99-f30e360a2bd0" />
+
 
 
 
